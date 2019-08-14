@@ -1,1 +1,1 @@
-# calculadora-js
+# calculadora-js [![Build Status](https://travis-ci.org/CH19971220/calculadora-js.svg?branch=master)](https://travis-ci.org/CH19971220/calculadora-js)
