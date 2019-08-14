@@ -1,3 +1,19 @@
+html {
+  height: 100%;
+}
+
+.form-group {
+  width: 100%;
+}
+
+.container-calculator {
+  height: 50%;
+  margin-top: 150px !important;
+  margin: 0 auto;
+  min-width: 250px;
+  max-width: 250px;
+}
+
 .kz-btn {
   width: 55px;
   margin-bottom: 4px;
@@ -5,4 +21,8 @@
 .kz-input-text {
   width: 173px !important;
   margin-bottom: 4px;
+}
+
+.text-center {
+  padding: 0 10px !important;
 }
