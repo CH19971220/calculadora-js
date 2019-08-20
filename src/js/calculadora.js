@@ -33,6 +33,7 @@ var Calculadora = {
     if (isNaN(num1) || isNaN(num2)) {
       return 0;
     }
+    
 
     switch (operacao) {
       case Calculadora.ADICAO:
